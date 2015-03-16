@@ -1,0 +1,24 @@
+{
+  "name": "fullcalendar-popover",
+  "version": "0.1.0",
+  "description": "Bootstrap popover that allows dynamic positioning",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blissbooker/fullcalendar-popover.git"
+  },
+  "keywords": [
+    "fullcalendar",
+    "bootstrap",
+    "popover"
+  ],
+  "author": "Tonio Buttigieg",
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/blissbooker/fullcalendar-popover/blob/master/LICENSE"
+  },
+  "bugs": {
+    "url": "https://github.com/blissbooker/fullcalendar-popover/issues"
+  },
+  "homepage": "https://github.com/blissbooker/fullcalendar-popover"
+}
